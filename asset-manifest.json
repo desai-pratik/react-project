@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reacct-project/static/css/main.073c9b0a.css",
+    "main.js": "/reacct-project/static/js/main.a2cc81bd.js",
+    "static/js/787.28cb0dcd.chunk.js": "/reacct-project/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/reacct-project/index.html",
+    "main.073c9b0a.css.map": "/reacct-project/static/css/main.073c9b0a.css.map",
+    "main.a2cc81bd.js.map": "/reacct-project/static/js/main.a2cc81bd.js.map",
+    "787.28cb0dcd.chunk.js.map": "/reacct-project/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a2cc81bd.js"
+  ]
+}
